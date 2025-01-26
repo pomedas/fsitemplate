@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.29.6">
+<ModelTarget name="MQ3_Left_Controller" targetId="d79d3fbbd02b44c79ffe5d29323605f9" version="14.0" toolVersion="10.29.6" bbox="0.060251 -0.058120 -0.037661 0.127749 0.058120 0.037661" previewImage="d79d3fbbd02b44c79ffe5d29323605f9_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="MQ3_Left_Controllers_assembly" assemblyId="c96df52e2da64a0e96d7cb9533dae35f">
+<Part name="MQ3_Left_Controller" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="0.085213 0.0223293 0.144625" rotation="AD: 0.999749 0.221374 -0.117107 125.671" image="MQ3_Left_Controller_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
